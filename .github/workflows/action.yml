@@ -6,7 +6,7 @@ on:
   # but only for the master branch
   push:
     branches:
-      - master
+      - main
       
   # runs once every month
   schedule:
